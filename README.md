@@ -1,4 +1,4 @@
-# Arch Linux ARM Setup Guide for Raspberry Pi Zero W
+# Arch Linux armv6h Setup Guide for Raspberry Pi Zero W
 
 This guide will help you set up **Arch Linux ARM** on your Raspberry Pi Zero W, both with a monitor/keyboard (direct setup) and headlessly (via Wi-Fi and SSH).
 
