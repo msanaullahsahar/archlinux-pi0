@@ -70,6 +70,6 @@ After logging in, expand the root partition to use the full SD card:
    ```
 Your root partition now uses the full SD card capacity.
 
-# 5. Open an issue if you need help. (This guide is upto date as of September 15, 2025)
+### 5. Open an issue if you need help. (This guide is upto date as of September 15, 2025)
 
 ## ✅ Done! Your Raspberry Pi Zero W is now running Arch Linux ARM and ready for use.
